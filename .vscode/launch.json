@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Jan/Documents/GitHub/My-Text-Adventure",
-      "program": "c:/Users/Jan/Documents/GitHub/My-Text-Adventure/build/Debug/outDebug",
+      "cwd": "c:/Users/Jan/Documents/GitHub/My-Text-Adventure/VUE.JS FILES",
+      "program": "c:/Users/Jan/Documents/GitHub/My-Text-Adventure/VUE.JS FILES/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
