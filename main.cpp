@@ -5,7 +5,7 @@
 int main() {
 	std::srand(static_cast<unsigned int>(std::time(nullptr)));
 
-	ew
+	
 
 
 	std::cout << "You wake up in a dimly lit and musty old basement, with its worn-out wooden beams and cracked stone walls, evoking a sense of eerie nostalgia and a mysterious atmosphere shrouded in darkness." << std::endl;
@@ -66,12 +66,12 @@ int main() {
 					std::cout << "Game over!" << std::endl;
                     break;
                 }
-            }
-            else {
+             }
+         	else {
                 std::cout << "You fight off the creature and escape the room safely." << std::endl;
-            }
+             }
         }
-        else if (encounter == 2) {
+            else if (encounter == 2) {
             std::cout << "You come across a mysterious door blocking your path." << std::endl;
             int choice;
             std::cin >> choice;
