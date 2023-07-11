@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="en" xml:lang="en>"
+<!DOCTYPE html;>
+<html>
 <head>
   <title>The Vue View</title>
   <link rel="stylesheet" type="text/css" href="./css/reset.css">
   <link rel="stylesheet" type="text/css" href="./css/style.css">
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js" defer></script>
+  <script src="./js/app.js" defer></script>
 </head>
 <body>
   <div id="app">
@@ -48,4 +49,4 @@
     </div>
   </div>
 </body>
-</html>
+</html>/
